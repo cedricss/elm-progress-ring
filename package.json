@@ -1,6 +1,6 @@
 {
   "name": "elm-progress-ring",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Progress ring built with elm/svg",
   "homepage": "https://cedricsoulas.com/elm",
   "author": "Cédric Soulas",
