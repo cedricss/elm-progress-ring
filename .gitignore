@@ -1,0 +1,7 @@
+.cache
+.idea/workspace.xml
+.idea/tasks.xml
+dist
+.DS_Store
+elm-stuff
+node_modules/
